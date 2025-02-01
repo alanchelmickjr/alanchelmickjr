@@ -14,7 +14,7 @@ My passion lies at the intersection of **cognitive AI** and **educational AI**, 
 - **Educational AI:** Creating tools that democratize access to knowledge and empower lifelong learning.
 - **Micro Models:** Innovating efficient, scalable, and highly performant AI architectures.
 
-## 🎯 What I’m Building:
+## 🎯 What we are Building:
 - I’m the architect behind the Transdifferential Cognitive Architecture, a groundbreaking AI framework that enables seamless collaboration between diverse models to solve real-world challenges.
 - Whether it’s improving educational outcomes or advancing cognitive capabilities, my work focuses on creating systems that amplify human potential. 🌈
 - My journey began over 10 years ago, building my first AI model on a Hadoop cluster made of micro-computers. Today, I continue to push the boundaries of what’s possible with cutting-edge technologies like Myriad, a polymathic AI system. 🧠
