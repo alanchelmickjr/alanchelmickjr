@@ -5,7 +5,9 @@
 ### Building the Future of Cognitive & Educational AI 
 
 
-### Hi, I'm Alan Helmick, the CTO of Mira Ai LLC, where I lead the charge in revolutionizing AI research and innovation. My passion lies at the intersection of **cognitive AI** and **educational AI**, with a special focus on the development of **micro models** that pack a big punch. 🚀
+Hi, I'm Alan Helmick, the CTO of Mira Ai LLC, where I lead the charge in revolutionizing AI research and innovation. 
+
+My passion lies at the intersection of **cognitive AI** and **educational AI**, with a special focus on the development of **micro models** that pack a big punch. 🚀
 
 ## 🔧 Key Areas of Expertise:
 - **Cognitive AI:** Designing adaptive systems that mimic human thought patterns for problem-solving and intelligent decision-making.
